@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sara
 
-<!--
-**SaraALabbas/SaraALabbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer passionate about building modern, responsive, and user-friendly websites.  
+🚀 Skilled in HTML, CSS, JavaScript.  
+📂 Check out my featured projects below!  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- HTML5 / CSS3 / JavaScript 
+- Responsive Design / UI & UX Basic
+
+---
+
+## 📊 GitHub Stats
+![Sara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaraALabbas&show_icons=true&theme=radical)
+
+---
+
+## 🌐 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/sara-alabbas)
